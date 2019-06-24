@@ -1,0 +1,24 @@
+.block {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius:100%
+  }
+  .blockblue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    border-radius:100%
+  
+  
+  }
+  img {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    border-radius:100%
+  }
+  
